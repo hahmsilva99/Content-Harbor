@@ -44,7 +44,4 @@ With this project, we leverage AWS S3's near-unlimited storage without the compl
 
 Each topic is covered in the exact amount of detail needed to make this course happen. The video has a number of chapters so you can skip around to the most interesting bits.
 
-A big thank you to Twingate for partnering with me on this course! Check it out now 👇
 
-- Watch it on Youtube: [https://youtu.be/2TX7Pal5NMc](https://youtu.be/2TX7Pal5NMc)
-- Add it, for free, to your CFE library on [https://www.codingforentrepreneurs.com/courses/content-engine/](https://www.codingforentrepreneurs.com/courses/content-engine/)
