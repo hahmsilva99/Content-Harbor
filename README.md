@@ -42,6 +42,5 @@ With this project, we leverage AWS S3's near-unlimited storage without the compl
 - And so much more.
 
 
-Each topic is covered in the exact amount of detail needed to make this course happen. The video has a number of chapters so you can skip around to the most interesting bits.
 
 
